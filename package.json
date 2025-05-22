@@ -1,0 +1,15 @@
+{
+  "name": "playnow-backend-project",
+  "version": "1.0.0",
+  "description": "PlayNow is a YouTube-like video streaming platform with a powerful backend for uploading and managing videos in real time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Keshav Sharma",
+  "license": "ISC"
+}
